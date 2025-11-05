@@ -1,0 +1,10 @@
+body {
+	font-family: serif;
+	padding-inline: 15%;
+	line-height: 1.5;
+}
+.about_website {
+	background-color: #cccccc;
+	padding-inline: 15px;
+	padding-block: 1px;
+}
