@@ -5,10 +5,10 @@ body {
 
 }
 main {
-	padding-inline: 15%;
+	padding-inline: 20%;
 }
 footer {
-	padding-inline: 15%;
+	padding-inline: 20%;
 	margin: 0;
 }
 .about_website {
@@ -17,4 +17,13 @@ footer {
 	padding-block: 1px;
 	border: 10px solid yellow;
 	border-image: repeating-linear-gradient(-45deg, black, black 20px, yellow 20px, yellow 40px) 10;
+}
+.container {
+	display: flex;
+}
+.container > div {
+	min-width: 400px;
+}
+#about_me {
+	margin-right: 30px;
 }
