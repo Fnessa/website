@@ -11,6 +11,9 @@ footer {
 	padding-inline: 20%;
 	margin: 0;
 }
+ul {
+	list-style-type: '> ';
+}
 .about_website {
 	background-color: lemonchiffon;
 	padding-inline: 5%;
